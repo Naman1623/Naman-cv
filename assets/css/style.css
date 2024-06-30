@@ -544,18 +544,26 @@ img {
 }
 
 .skills__python {
-  width: 94%;
+  width: 90%;
 }
 
-.skills__blender {
-  width: 50%;
+.skills__c {
+  width: 60%;
 }
 
-.skills__photoshop {
-  width: 42%;
+.skills__cc {
+  width: 60%;
 }
 
-.skills__adobeillustrator {
+.skills__java {
+  width: 62%;
+}
+
+.skills__windows {
+  width: 90%;
+}
+
+.skills__linux {
   width: 62%;
 }
 
